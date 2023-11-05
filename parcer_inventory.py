@@ -52,6 +52,6 @@ def get_items(steam_id, app_id):
 
 
 # Замените значения на свои ключ API и Steam ID
-api_key = "9B05F7EA801303764424859454D44E62"
-steam_id = "76561199490909718"
+api_key = ""
+steam_id = ""
 app_id = "440"
